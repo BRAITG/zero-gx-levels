@@ -8,7 +8,8 @@
       "versions": [
         {
           "version": 1,
-          "sha256": "bca59c99af0fa87490db4b30cbc73f133afd7233e5d935b16c9efb55d337b4d5"
+          "sha256": "bca59c99af0fa87490db4b30cbc73f133afd7233e5d935b16c9efb55d337b4d5",
+          "reviewed_difficulty": null
         }
       ]
     }
