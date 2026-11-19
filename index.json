@@ -1,6 +1,19 @@
 {
   "levels": [
     {
+      "id": "lvl_ez93q076w8",
+      "title": "My level",
+      "author": "waltsontanaka",
+      "latest": 1,
+      "versions": [
+        {
+          "version": 1,
+          "sha256": "a039cfd9ae952c5e7233be46b6ef9b5e8b921dbe243919a7460f79bfbdeffbe9",
+          "reviewed_difficulty": null
+        }
+      ]
+    },
+    {
       "id": "lvl_hdyydox3t4",
       "title": "My level",
       "author": "andrebrait",
