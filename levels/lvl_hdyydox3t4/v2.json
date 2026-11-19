@@ -1,0 +1,73 @@
+{
+  "bodies": [
+    {
+      "kind": "star",
+      "position": [
+        -2806,
+        -86
+      ],
+      "radius": 2152,
+      "reach": 5350,
+      "strength": 867.849221265599
+    },
+    {
+      "kind": "black_hole",
+      "position": [
+        830,
+        -293
+      ]
+    },
+    {
+      "kind": "black_hole",
+      "position": [
+        3406,
+        -1276
+      ]
+    }
+  ],
+  "format": "zero-gx-level",
+  "goal": {
+    "position": [
+      300,
+      0
+    ]
+  },
+  "ship": {
+    "fuel": 100,
+    "hull": 100,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "title": "My level",
+  "version": 1,
+  "walls": [
+    {
+      "closed": true,
+      "kind": "blue",
+      "points": [
+        [
+          -200,
+          -200
+        ],
+        [
+          -200,
+          200
+        ],
+        [
+          500,
+          200
+        ],
+        [
+          400,
+          -200
+        ],
+        [
+          0,
+          -200
+        ]
+      ]
+    }
+  ]
+}
