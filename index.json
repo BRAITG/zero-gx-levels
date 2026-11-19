@@ -4,11 +4,16 @@
       "id": "lvl_hdyydox3t4",
       "title": "My level",
       "author": "andrebrait",
-      "latest": 1,
+      "latest": 2,
       "versions": [
         {
           "version": 1,
           "sha256": "bca59c99af0fa87490db4b30cbc73f133afd7233e5d935b16c9efb55d337b4d5",
+          "reviewed_difficulty": null
+        },
+        {
+          "version": 2,
+          "sha256": "504c0b6f2c6f53b07e2aa0587b1e8f8a68f43dc14cf9755e08faa6a831c3808f",
           "reviewed_difficulty": null
         }
       ]
